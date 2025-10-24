@@ -14,7 +14,7 @@ void testCreatingObject() {
 
 	// Method overriding
 	child.foo(10);
-	child.foo();
+	//child.foo();
 
 	// Polymorphism
 	polymorphicObj->foo(10);

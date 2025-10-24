@@ -5,12 +5,12 @@
 #include <LambdaExp.h>
 #include <LearnPointers.h>
 #include <LearnOOP.h>
+#include <LearnSTL.h>
 
 using namespace std;
 
 int main()
 {
-
-	testCreatingObject();
+	LearnStacks();
 	return 0;
 }
